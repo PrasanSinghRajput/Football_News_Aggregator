@@ -4,10 +4,10 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 
 
-# Load your hidden environment keys
+# Put the API keys for the code to work. The API Keys could be found from football-data.org and newsapi.org
 
-FOOTBALL_TOKEN = "e7e4bd6b22dc484d8481a40b66b753db"
-NEWS_KEY = "12c7e070646f4e659d05300f5455e66f"
+FOOTBALL_TOKEN = "FootballdataAPIKey"
+NEWS_KEY = "Newsapikey"
 
 # --- DATA FETCHING FUNCTIONS ---
 
